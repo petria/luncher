@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "generated_timestamp": 1575369088,
+    "ref_url": "https:\/\/www.sodexo.fi\/ravintolat\/ravintola-technopolis-myrsky-ja-luoto",
+    "ref_title": "Ravintola Technopolis Myrsky ja Luoto"
+  },
+  "courses": [
+    {
+      "title_fi": "Lihapy\u00f6ryk\u00e4t M, ruskeaa kermakastiketta L,G, ja perunoita M,G",
+      "title_en": "Meatballs with brown cream sauce, potatoes",
+      "category": "Local",
+      "properties": "",
+      "price": ""
+    },
+    {
+      "title_fi": "Smetanassa haudutettua turskaa ja tomaattia L,G, perunoita M,G",
+      "title_en": "Codfish and tomatoes braised with smetana, potatoes",
+      "category": "Global",
+      "properties": "",
+      "price": ""
+    },
+    {
+      "title_fi": "Tomaattinen peruna-papuvuoka",
+      "title_en": "Potato and bean casserole with tomatoes",
+      "category": "Veggie",
+      "properties": "G, M",
+      "price": ""
+    },
+    {
+      "title_fi": "Paahdettua paprikakeittoa (L,G)",
+      "title_en": "Roasted sweet pepper soup",
+      "category": "Veggie soup",
+      "properties": "G, L",
+      "price": ""
+    },
+    {
+      "title_fi": "Emmentaljuusto L,G, Tonnikala M,G, Chilih\u00e4rk\u00e4 M,G",
+      "title_en": "Cheese, Tuna, Chili beef",
+      "category": "Salad Garden",
+      "properties": "",
+      "price": ""
+    },
+    {
+      "title_fi": "Kinkku-aurajuusto-herkkusienipizza ",
+      "title_en": "Ham, blue cheese and mushroom pizza",
+      "category": "Hot kitchen2",
+      "properties": "L",
+      "price": "10,50\u20ac"
+    },
+    {
+      "title_fi": "Boysenmarjakiisseli\u00e4 ja kermavaahtoa L,G, 1,00\u20ac, Omenapiirakkaa ja vaniljakastiketta L, 1,50\u20ac",
+      "title_en": "Boysenberry fool with whipped cream, Apple pie with vanilla sauce",
+      "category": "Sweet",
+      "properties": "",
+      "price": ""
+    }
+  ]
+}

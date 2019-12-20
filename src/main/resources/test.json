@@ -1,0 +1,324 @@
+{
+  "RestaurantName": "Majakka",
+  "RestaurantUrl": "https://www.amica.fi/ravintolat/ravintolat-kaupungeittain/oulu/majakka/",
+  "PriceHeader": null,
+  "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
+  "MenusForDays": [
+    {
+      "Date": "2019-12-02T00:00:00+01:00",
+      "LunchTime": "10.30 - 12.30",
+      "SetMenus": [
+        {
+          "SortOrder": 1,
+          "Name": "BUFFET KASVISKEITTO",
+          "Price": null,
+          "Components": [
+            "Juusto-basilikakeittoa (A ,G ,L ,VS)",
+            "Krutonkeja (A ,L)"
+          ]
+        },
+        {
+          "SortOrder": 3,
+          "Name": "BUFFET LOUNAS",
+          "Price": null,
+          "Components": [
+            "Kylmäsavukirjolohikiusausta\n (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Name": "BUFFET LOUNAS",
+          "Price": null,
+          "Components": [
+            "Bolognesekastiketta (* ,A ,G ,L ,M ,VS)",
+            "Luomutäysjyväspagettia (* ,A ,L ,M ,Veg)",
+            "Parmesanjuustoa (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFET PÄIVÄN LÄMMIN KASVISLISÄKE",
+          "Price": null,
+          "Components": [
+            "Juuressärää (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 6,
+          "Name": "DELI SALAATTIBAARI",
+          "Price": "VIERAILIJA: 10,50€",
+          "Components": [
+            "BBQ broileria (A ,G ,L ,M)",
+            "Currykermaviilikastiketta (A ,G ,L)",
+            "Tonnikalaa (A ,G ,L ,M)",
+            "Salaattijuustoa (A ,G ,L)",
+            "Viininlehtikääryleitä (A ,G ,L ,M ,Veg)",
+            "Kananmuna (A ,G ,L ,M)",
+            "Amerikansalaattia (G ,L ,M ,Veg)",
+            "Salaattisekoitusta (G ,L ,M ,Veg)",
+            "Kirsikkatomaatteja (G ,L ,M ,Veg)",
+            "Kurkkua (G ,L ,M ,Veg)",
+            "Persikkaa (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 7,
+          "Name": "STREET GOURMET (HAMPURILAINEN/OHUT PIZZA)",
+          "Price": "VIERAILIJA: 10,50€",
+          "Components": [
+            "Kebab ranskalaisilla (A ,G ,L ,VS)",
+            "Vihersalaattia (A ,G ,L ,M ,Veg)",
+            "Paneroituja sipulirenkaita (A ,L)"
+          ]
+        },
+        {
+          "SortOrder": 9,
+          "Name": "JÄLKIRUOKA",
+          "Price": null,
+          "Components": [
+            "Mariannerahkaa (A ,G ,VL)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2019-12-03T00:00:00+01:00",
+      "LunchTime": "10.30 - 12.30",
+      "SetMenus": [
+        {
+          "SortOrder": 1,
+          "Name": "BUFFET KASVISKEITTO",
+          "Price": null,
+          "Components": [
+            "Porkkana-basilikakeittoa (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 2,
+          "Name": "BUFFET KASVISLOUNAS",
+          "Price": null,
+          "Components": [
+            "Pinaattiohukaisia (* ,A ,L)",
+            "Ruohosipuli-kermaviilikastiketta (A ,G ,L)",
+            "Persiljaperunoita (* ,G ,L ,M ,Veg)",
+            "Puolukkahilloa (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 3,
+          "Name": "BUFFET LOUNAS",
+          "Price": null,
+          "Components": [
+            "Uunimakkaraa juustotäytteellä (A ,G ,L)",
+            "Dijonsinappikastiketta (A ,G ,L)",
+            "Perunasosetta (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFET PÄIVÄN LÄMMIN KASVISLISÄKE",
+          "Price": null,
+          "Components": [
+            "Höyrytettyä kukkakaalia ja porkkanaa (A ,G ,VL)"
+          ]
+        },
+        {
+          "SortOrder": 6,
+          "Name": "DELI SALAATTIBAARI",
+          "Price": "VIERAILIJA: 10,50€",
+          "Components": [
+            "Raejuustoa (A ,G ,L)",
+            "Rosmariiniöljyssä pariloitua broileria (* ,G ,L ,M)",
+            "Currykermaviilikastiketta (A ,G ,L)",
+            "Lämminsavukirjolohta (A ,G ,L ,M)",
+            "Kananmuna (A ,G ,L ,M)",
+            "Amerikansalaattia (G ,L ,M ,Veg)",
+            "Salaattisekoitusta (G ,L ,M ,Veg)",
+            "Kirsikkatomaatteja (G ,L ,M ,Veg)",
+            "Kurkkua (G ,L ,M ,Veg)",
+            "Persikkaa (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 7,
+          "Name": "STREET GOURMET (HAMPURILAINEN/OHUT PIZZA)",
+          "Price": "VIERAILIJA: 10,50€",
+          "Components": [
+            "Serranonkinkkupannupizza (A ,VL ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 9,
+          "Name": "JÄLKIRUOKA",
+          "Price": null,
+          "Components": [
+            "Puutarhamarja-ruismurupaistosta (A ,L ,M ,Veg)",
+            "Kinuskikermavaahtoa (A ,G)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2019-12-04T00:00:00+01:00",
+      "LunchTime": "10.30 - 12.30",
+      "SetMenus": [
+        {
+          "SortOrder": 1,
+          "Name": "BUFFET KASVISKEITTO",
+          "Price": null,
+          "Components": [
+            "Kantarellikeittoa (A ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 2,
+          "Name": "BUFFET KASVISLOUNAS",
+          "Price": null,
+          "Components": [
+            "Härkistä ja kasviksia teriyakiakastikkeessa (A ,G ,L ,M)",
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 3,
+          "Name": "BUFFET LOUNAS",
+          "Price": null,
+          "Components": [
+            "Porsaanfileepihvi mausteisessa sinappikastikeessa (A ,G ,L ,VS)",
+            "Viipaleperunoita (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFET PÄIVÄN LÄMMIN KASVISLISÄKE",
+          "Price": null,
+          "Components": [
+            "Paahdettua punajuurta (G ,L ,M ,Veg)",
+            "Timjamipaahdettua porkkanaa (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 6,
+          "Name": "DELI SALAATTIBAARI",
+          "Price": "VIERAILIJA: 10,50€",
+          "Components": [
+            "Paistettua broilerinfileetä (* ,G ,L ,M)",
+            "Currykermaviilikastiketta (A ,G ,L)",
+            "Katkarapuja (A ,G ,L ,M)",
+            "Valkohomejuustoa (A ,G)",
+            "Viikuna-balsamiviinietikkaa (A ,G ,L ,M ,Veg)",
+            "Kananmuna (A ,G ,L ,M)",
+            "Amerikansalaattia (G ,L ,M ,Veg)",
+            "Kauden salaattisekoitusta (G ,L ,M ,Veg)",
+            "Salaattisekoitusta (G ,L ,M ,Veg)",
+            "Kirsikkatomaatteja (G ,L ,M ,Veg)",
+            "Kurkkua (G ,L ,M ,Veg)",
+            "Persikkaa (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 7,
+          "Name": "STREET GOURMET (HAMPURILAINEN/OHUT PIZZA)",
+          "Price": "VIERAILIJA: 10,50€",
+          "Components": [
+            "Briossihampurilainen rotukarjapihvi ja pekoni (A ,L)",
+            "Bataattiranskalaisia (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 9,
+          "Name": "JÄLKIRUOKA",
+          "Price": null,
+          "Components": [
+            "Valkosuklaamoussea (A ,G)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2019-12-05T00:00:00+01:00",
+      "LunchTime": "10.30 - 12.30",
+      "SetMenus": [
+        {
+          "SortOrder": 1,
+          "Name": "BUFFET VEGAANINEN KASVISKEITTO",
+          "Price": null,
+          "Components": [
+            "Bataatti-kookossosekeittoa (G ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 2,
+          "Name": "BUFFET KASVISLOUNAS",
+          "Price": null,
+          "Components": [
+            "Halloumi-tomaattipannupizzaa (A ,VS)",
+            "Valkosipulimurskaa (G ,L ,M ,Veg ,VS)",
+            "Jalapenoja (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 3,
+          "Name": "BUFFET LOUNAS",
+          "Price": null,
+          "Components": [
+            "Palviporsas-kebabliha-ananaspizzaa (A ,L ,VS)",
+            "Srirachamajoneesia (A ,G ,L ,M ,VS)",
+            "Valkosipulimurskaa (G ,L ,M ,Veg ,VS)",
+            "Jalapenoja (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFET PÄIVÄN LÄMMIN KASVISLISÄKE",
+          "Price": null,
+          "Components": [
+            "Peruna-juuressärää (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 6,
+          "Name": "DELI SALAATTIBAARI",
+          "Price": "VIERAILIJA: 10,50€",
+          "Components": [
+            "Paahdettu broilerinfilee (* ,G ,L ,M)",
+            "Currykermaviilikastiketta (A ,G ,L)",
+            "Kylmäsavustettua kirjolohta (A ,G ,L ,M)",
+            "Salaattijuustoa (A ,G ,L)",
+            "Viininlehtikääryleitä (A ,G ,L ,M ,Veg)",
+            "Kananmuna (A ,G ,L ,M)",
+            "Amerikansalaattia (G ,L ,M ,Veg)",
+            "Salaattisekoitusta (G ,L ,M ,Veg)",
+            "Kirsikkatomaatteja (G ,L ,M ,Veg)",
+            "Kurkkua (G ,L ,M ,Veg)",
+            "Persikkaa (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 9,
+          "Name": "JÄLKIRUOKA",
+          "Price": null,
+          "Components": [
+            "Kuningatarjäätelöä (G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2019-12-06T00:00:00+01:00",
+      "LunchTime": "10.30 - 12.30",
+      "SetMenus": []
+    },
+    {
+      "Date": "2019-12-07T00:00:00+01:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2019-12-08T00:00:00+01:00",
+      "LunchTime": null,
+      "SetMenus": []
+    }
+  ],
+  "ErrorText": null
+}
