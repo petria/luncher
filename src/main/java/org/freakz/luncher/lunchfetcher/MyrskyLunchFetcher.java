@@ -27,7 +27,7 @@ public class MyrskyLunchFetcher implements LunchFetcher {
         LocalDate now = LocalDate.now();
         String today = String.format("%d-%d-%d", now.getYear(), now.getMonth().getValue(), now.getDayOfMonth());
         String todayFIN = String.format("%d.%d. %d", now.getDayOfMonth(), now.getMonth().getValue(), now.getYear());
-        String url = String.format("https://www.sodexo.fi/ruokalistat/output/daily_json/232/%d-%d-%02d", now.getYear(), now.getMonth().getValue(), now.getDayOfMonth());
+        String url = String.format("https://www.sodexo.fi/ruokalistat/output/daily_json/232/%d-%02d-%02d", now.getYear(), now.getMonth().getValue(), now.getDayOfMonth());
         LunchData lunchData = null;
         try {
 

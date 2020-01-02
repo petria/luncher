@@ -25,8 +25,8 @@ public class MajakkaLunchFetcher implements LunchFetcher {
 
     @Override
     public LunchData fetchLunch() {
-
         String url = "https://www.amica.fi/modules/json/json/Index?costNumber=2532&language=fi";
+	log.debug(">>> url: " + url);
         LunchData lunchData = null;
         try {
 
@@ -34,12 +34,14 @@ public class MajakkaLunchFetcher implements LunchFetcher {
             Document doc = Jsoup.connect(url).ignoreContentType(true).get();
 
             String json = doc.body().text();
+//	    log.debug("Json: " + json);
             MajakkaJSON majakkaJSON = objectMapper.readValue(json, MajakkaJSON.class);
             LocalDate now = LocalDate.now();
-            String today = String.format("%d-%d-%02d", now.getYear(), now.getMonth().getValue(), now.getDayOfMonth());
+            String today = String.format("%d-%02d-%02d", now.getYear(), now.getMonth().getValue(), now.getDayOfMonth());
             String todayFIN = String.format("%d.%d. %d", now.getDayOfMonth(), now.getMonth().getValue(), now.getYear());
             for (MenusForDay day : majakkaJSON.menusForDays) {
                 String date = day.getDate();
+		log.debug(date + " <-> " + today);
                 if (date.startsWith(today)) {
                     String menuStr = "";
                     for (SetMenu menu : day.setMenus) {

@@ -29,6 +29,7 @@ public class MainRunner implements CommandLineRunner {
         Map<String, Object> beansWithAnnotation = context.getBeansWithAnnotation(LunchFetcherBean.class);
         for (Object bean : beansWithAnnotation.values()) {
             LunchFetcher lunchFetcher = (LunchFetcher) bean;
+	    log.debug("Fetcing lunch: " + lunchFetcher);
             LunchData data = lunchFetcher.fetchLunch();
             if (data != null) {
                 messageToTeams += "<b>" + data.getTitle() + "</b>\n";
